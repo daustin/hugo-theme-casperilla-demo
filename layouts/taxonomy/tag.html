@@ -1,7 +1,7 @@
 {{ $tax_value := .Title }}
 
 {{ if eq $tax_value "Pizza" }}
-{{ .Scratch.Set "custom_title" "my pizza title" }}
+{{ .Scratch.Set "custom_title" "my pizza tag title" }}
 {{ .Scratch.Set "custom_cover" "images/pizza_cover.jpg" }}
 {{ .Scratch.Set "custom_description" "pizza tag description" }}
 {{ end }}
