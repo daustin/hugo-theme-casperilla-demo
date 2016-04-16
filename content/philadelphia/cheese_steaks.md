@@ -10,6 +10,7 @@ slug = "cheese_steaks"
 tags = ["cheese_steaks"]
 title = "Cheese Steaks"
 type = "page"
+description = "Cheese Steaks Description"
 
 +++
 

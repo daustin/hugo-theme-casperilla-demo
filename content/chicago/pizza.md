@@ -10,6 +10,7 @@ slug = "pizza"
 tags = ["pizza"]
 title = "Deep Dish Pizza"
 type = "page"
+description = "Deep Dish Pizza Description"
 
 +++
 

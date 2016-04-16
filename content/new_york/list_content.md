@@ -7,6 +7,5 @@ type = "custom_list_content"
 +++
 
 
-### New York food index content
-
+### New York food list content
 

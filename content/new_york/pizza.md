@@ -10,6 +10,7 @@ slug = "pizza"
 tags = ["pizza"]
 title = "Neapolitan Pizza"
 type = "page"
+description = "Thin Pizza Description"
 
 +++
 

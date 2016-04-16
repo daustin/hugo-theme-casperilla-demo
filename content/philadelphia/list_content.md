@@ -5,4 +5,4 @@ title = "list_content"
 type = "custom_list_content"
 +++
 
-### Philadelphia food index content
+### Philadelphia food list content

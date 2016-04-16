@@ -9,6 +9,7 @@ share = true
 slug = "hot-dogs"
 tags = ["hot_dogs"]
 title = "Hot Dogs"
+description = "Hot Dog Description"
 type = "page"
 +++
 

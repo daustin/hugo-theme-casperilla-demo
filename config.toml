@@ -4,7 +4,7 @@ Title= "City Food"
 paginate = 5
 canonifyurls = true
 pluralizelisttitles = false
-theme = "casper"
+theme = "casperilla"
 
 [params]
   description = "City Food is Tasty"

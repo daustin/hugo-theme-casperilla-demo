@@ -4,5 +4,5 @@ draft = false
 type = "custom_list_content"
 +++
 
-### Chicago food index content
+### Chicago food list content
 

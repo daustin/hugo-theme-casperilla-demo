@@ -10,6 +10,7 @@ slug = "pretzels"
 tags = ["pretzels"]
 title = "Pretzels"
 type = "page"
+description = "Pretzels Description"
 
 +++
 
