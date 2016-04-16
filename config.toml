@@ -1,0 +1,46 @@
+BaseUrl= "http://localhost:1313"
+LanguageCode= "en-US"
+Title= "City Food"
+paginate = 5
+canonifyurls = true
+pluralizelisttitles = false
+theme = "casper"
+
+[params]
+  description = "City Food is Tasty"
+  cover = "images/index_cover.jpg"
+  author = "Guess Who"
+  authorlocation = "Philly, PA"
+  bio= "author bio"
+  # set true if you are not proud of using Hugo (true will hide the footer note "Proudly published with HUGO.....")
+  hideHUGOSupport = false
+
+[[menu.main]]
+  name = "Main"
+  weight = -110
+  identifier = "main"
+  url = "/"
+
+[[menu.main]]
+  name = "New York"
+  weight = -100
+  identifier = "new_york"
+  url = "/new_york"
+
+[[menu.main]]
+  name = "Chicago"
+  weight = -95
+  identifier = "chicago"
+  url = "/chicago"
+
+[[menu.main]]
+  name = "Philadelphia"
+  weight = -90
+  identifier = "phila"
+  url = "/philadelphia"
+
+
+
+
+
+  
